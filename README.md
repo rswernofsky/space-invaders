@@ -238,6 +238,8 @@ Your Space Invaders game is almost done! Add at least one of these extra feature
 ## Attribution
 Contributions made from [@JimmieLB](https://github.com/JimmieLB)!
 
+This was created for the curriculum for a Python bootcamp at [Digital Ready](https://www.digitalready.org/).
+
 This was built using some of the materials from the following sources:
 * https://codingal.com/coding-for-kids/blog/space-invaders-game-using-python/
 * https://github.com/clear-code-projects/Space-invaders/tree/main
